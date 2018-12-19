@@ -1,0 +1,7 @@
+name: CommandDisabler
+author: OnlineMetLesley
+version: 1.5
+main: me.OnlineMetlesley.com.CommandDisabler.Main
+commands:
+  commanddisabler:
+    aliases: [cd]
